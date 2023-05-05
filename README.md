@@ -1,2 +1,3 @@
-# Clustering-COVID19
-Clustering-COVID19
+# Кластеризация COVID-19
+## Описание
+Данные взяты с https://github.com/CSSEGISandData/COVID-19. Проведен анализ данных за месяц и за последний год по COVID-19 с помощью машинного обучения.
